@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9kPf.jpg",
+      "title": "standoff 1",
+        "text_Content": "tandoff refers to a tactical situation where two opposing forces or individuals confront each other, often with deadly force, without taking any action. The standoff is an intense and potentially volatile situation that can lead to violence, injury, or loss of life. The term is often used in the context of law enforcement, military operations, and hostage situations. In this article, we will explore what standoff is, the different types of standoff, and how they are resolved..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE98F4.jpg",
+      "title": "standoff 2",
+        "text_Content": "A law enforcement standoff occurs when police officers confront an individual or group of people who are believed to be armed and dangerous. This type of standoff can occur in a variety of situations, including domestic disputes, bank robberies, and other criminal activities. In these situations, the police will often establish a perimeter around the location where the suspects are believed to be and attempt to negotiate a peaceful resolution.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9V8N.jpg",
+      "title": "standoff 3",
+        "text_Content": "A military standoff is a situation in which two opposing armies or forces are positioned near each other but are not actively engaged in combat. This can occur during a ceasefire or in the buildup to a conflict. In this type of standoff, both sides are often looking to gain an advantage without escalating the situation into a full-blown war.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9GFR.jpg",
+      "title": "standoff 4",
+        "text_Content": "A military standoff is a situation in which two opposing armies or forces are positioned near each other but are not actively engaged in combat. This can occur during a ceasefire or in the buildup to a conflict. In this type of standoff, both sides are often looking to gain an advantage without escalating the situation into a full-blown war.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9hut.jpg",
+      "title": "standoff 5",
+        "text_Content": "A personal standoff is a situation in which two individuals confront each other without taking any action. This can occur in a variety of situations, including arguments, road rage incidents, and other personal conflicts. In a personal standoff, the risk of violence is high, and it is important to de-escalate the situation as quickly as possible.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9Ons.jpg",
+      "title": "standoff 6",
+        "text_Content": "A personal standoff is a situation in which two individuals confront each other without taking any action. This can occur in a variety of situations, including arguments, road rage incidents, and other personal conflicts. In a personal standoff, the risk of violence is high, and it is important to de-escalate the situation as quickly as possible.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGE9X9I.jpg",
+      "title": "standoff 7",
+        "text_Content": "A personal standoff is a situation in which two individuals confront each other without taking any action. This can occur in a variety of situations, including arguments, road rage incidents, and other personal conflicts. In a personal standoff, the risk of violence is high, and it is important to de-escalate the situation as quickly as possible.",
+        "text_Content_1": "."
 
 
 
